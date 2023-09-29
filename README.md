@@ -16,4 +16,8 @@ git push
 
 ## Aufgabe 4
 
+tafelskielenalb-324-2.azurewebsites.net
+
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
+
+Auf Azure in meiner Web-App in der Konfiguration habe ich eine neue Anwendungseinstellung erstellt und als Name PASSWORD und als Wert einSehrGeheimesPasswort geschrieben. Dann OK und speichern.
